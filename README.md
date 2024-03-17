@@ -58,8 +58,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### :medal: Quote :
+### :pencil: Quote
 
-![KrishnaQuote](https://ibb.co/tqFysC8)
-
-
+![KrishnaQuote](![image](https://github.com/bansalritika/bansalritika/assets/143271624/089ac92f-9856-47ce-ace8-6e5cb6e2153c)
+)
