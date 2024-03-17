@@ -21,9 +21,6 @@ class WebDeveloper:
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-me = WebDeveloper()
-me.say_hi()
-
 ---
 
 ### :woman_technologist: About Me :
