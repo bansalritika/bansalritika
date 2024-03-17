@@ -59,6 +59,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 
 :medal: Quote :
+![KrishnaQuote](https://drive.google.com/file/d/1OPn8RU4H-cJquDNDrEXktiggxXFpV8tO/view?usp=sharing)
 
-![KrishnaQuote](https://drive.google.com/file/d/1OPn8RU4H-cJquDNDrEXktiggxXFpV8tO/view?usp=drive_link)
 
