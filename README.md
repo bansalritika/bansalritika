@@ -8,7 +8,9 @@
   </a>
 </div></div>
 ### Hi there 👋
-```python
+
+---
+
 class WebDeveloper:
 
     def __init__(self):
@@ -19,7 +21,7 @@ class WebDeveloper:
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-me = SoftwareEngineer()
+me = WebDeveloper()
 me.say_hi()
 
 ---
