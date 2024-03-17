@@ -54,7 +54,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bansalritika&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :trophy: Github trophies :
-[![trophy](https://github-profile-trophy.vercel.app/?username=bansalritika)](https://github.com/bansalritika/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
