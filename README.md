@@ -38,7 +38,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;" 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -46,8 +46,14 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-<img src="https://about.canva.com/wp-content/uploads/sites/3/2016/08/Canva-cat-black.png" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/video-editing-1873149-1581873.png" title="VN Video Editor" alt="VN Video Editor" width="40" height="40"/>&nbsp;
+<a href="https://about.canva.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://about.canva.com/wp-content/uploads/sites/3/2016/08/Canva-cat-black.png" title="Canva" alt="Canva" width="40" height="40"/>
+</a>&nbsp;
+
+<a href="https://www.vlognow.me/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/video-editing-1873149-1581873.png" title="VN Video Editor" alt="VN Video Editor" width="40" height="40"/>
+</a>
+
 
 
 </div>
