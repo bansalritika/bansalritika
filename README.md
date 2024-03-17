@@ -59,6 +59,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 
 ### :medal: Quote :
+
 ![KrishnaQuote](https://ibb.co/tqFysC8)
 
 
