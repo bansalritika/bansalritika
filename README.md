@@ -60,4 +60,4 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :pencil: Quote
 
-![KrishnaQuote]([img]https://i.imgur.com/uFOHUGJ.png[/img])
+![KrishnaQuote](https://i.imgur.com/uFOHUGJ.png)
