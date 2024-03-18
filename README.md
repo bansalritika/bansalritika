@@ -26,7 +26,7 @@ class WebDeveloper:
 ### :woman_technologist: About Me :
 
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I'm a 2nd year student and [@Google Developer Student Clubs](https://github.com/Developer-Student-Clubs-MMDU) core team member at Maharishi markandeshwar deemed to be University, Mullana.
+- :telescope: I'm a 2nd year student and [Google Developer Student Clubs](https://github.com/Developer-Student-Clubs-MMDU) core team member at Maharishi markandeshwar deemed to be University, Mullana.
 
 - :seedling: I am currently learning GoLang.
 
